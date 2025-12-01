@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=250&section=header&text=stPark-dev&fontSize=70" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=C78858&height=250&section=header&text=stPark-dev&fontSize=70&fontColor=ffffff)
 
 <br><br>
 
