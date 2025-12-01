@@ -4,9 +4,16 @@
 
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stPark-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stPark-dev&layout=compact&theme=radical)
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stPark-dev&layout=compact&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+       <img src="https://github.com/user-attachments/assets/cb87f280-5257-43ed-8b4d-efa9a05255a9" width="350" alt="치이카와 움짤" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
