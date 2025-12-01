@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/cb87f280-5257-43ed-8b4d-efa9a05255a9" width="350" alt="치이카와 움짤" />
+<img src="https://github.com/user-attachments/assets/de46ef18-c05b-49d0-82e0-0af91c8df159" width="600" alt="kuri" />
       
 
 <br><br>
