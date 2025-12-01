@@ -4,9 +4,9 @@
 
 <br><br>
 
-<a href="https://solved.ac/dmc0110">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmc0110" width="350"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stPark-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stPark-dev&layout=compact&theme=radical)
 
 <br><br>
 
