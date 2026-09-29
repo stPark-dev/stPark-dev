@@ -9,7 +9,7 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/de46ef18-c05b-49d0-82e0-0af91c8df159" width="600" alt="kuri" />
-      
+
 
 <br><br>
 
@@ -26,5 +26,15 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+
+<br><br>
+
+<h3>☕ Sponsor ☕</h3>
+<p>제가 만든 개발 도구와 활동이 도움이 되셨다면 커피 한 잔으로 응원해 주세요.</p>
+<a href="https://github.com/sponsors/stPark-dev">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-후원하기-EA4AAA?style=for-the-badge&logo=githubspoitHub Sponsors">
+</a>
+<p><sub>후원은 개발 활동에 대한 응원이며 어떤 대가나 혜택도 드리지 않습니다.<br>
+제가 공개하는 번역 패치는 모두 비영리이며, 후원 여부와 관계없이 누구에게나 똑같이 무료입니다.</sub></p>
 
 </div>
