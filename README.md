@@ -32,7 +32,7 @@
 <h3>☕ Sponsor ☕</h3>
 <p>제가 만든 개발 도구와 활동이 도움이 되셨다면 커피 한 잔으로 응원해 주세요.</p>
 <a href="https://github.com/sponsors/stPark-dev">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-후원하기-EA4AAA?style=for-the-badge&logo=githubspoitHub Sponsors">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors 후원하기">
 </a>
 <p><sub>후원은 개발 활동에 대한 응원이며 어떤 대가나 혜택도 드리지 않습니다.<br>
 제가 공개하는 번역 패치는 모두 비영리이며, 후원 여부와 관계없이 누구에게나 똑같이 무료입니다.</sub></p>
