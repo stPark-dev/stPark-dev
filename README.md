@@ -40,35 +40,40 @@ Interest         Retro games · Game systems · UI/UX · Automation
 
 ## `> currently_building`
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🛠️ Tools</h3>
-      <sub>
-        Automate the boring stuff.<br>
-        Build what's missing.
-      </sub>
-    </td>
+<div align="center">
 
-    <td width="33%" align="center" valign="top">
-      <h3>🌐 Web</h3>
-      <sub>
-        Frontend → Backend<br>
-        Ideas → Working products
-      </sub>
-    </td>
+<table>
+<tr>
+<td align="center" width="220">
+  <b>🛠️ TOOLS</b>
+  <br><br>
+  <sub>
+    Automate the boring stuff.<br>
+    Build what's missing.
+  </sub>
+</td>
 
-    <td width="33%" align="center" valign="top">
-      <h3>🎮 Localization</h3>
-      <sub>
-        Reverse · Translate · Patch<br>
-        Retro games in Korean
-      </sub>
-    </td>
-  </tr>
+<td align="center" width="220">
+  <b>🌐 WEB</b>
+  <br><br>
+  <sub>
+    Frontend → Backend<br>
+    Ideas → Working products
+  </sub>
+</td>
+
+<td align="center" width="220">
+  <b>🎮 LOCALIZATION</b>
+  <br><br>
+  <sub>
+    Reverse · Translate · Patch<br>
+    Retro games in Korean
+  </sub>
+</td>
+</tr>
 </table>
 
----
+</div>
 
 ## `> tech_stack`
 
