@@ -40,36 +40,32 @@ Interest         Retro games · Game systems · UI/UX · Automation
 
 ## `> currently_building`
 
-<table>
-<tr>
-<td width="33%" align="center">
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🛠️ Tools</h3>
+      <sub>
+        Automate the boring stuff.<br>
+        Build what's missing.
+      </sub>
+    </td>
 
-### 🛠️ Tools
+    <td width="33%" align="center" valign="top">
+      <h3>🌐 Web</h3>
+      <sub>
+        Frontend → Backend<br>
+        Ideas → Working products
+      </sub>
+    </td>
 
-반복 작업을 줄이고  
-개발을 편하게 만드는  
-작은 도구들
-
-</td>
-<td width="33%" align="center">
-
-### 🌐 Web
-
-Frontend부터 Backend까지  
-실제로 사용할 수 있는  
-웹 서비스 개발
-
-</td>
-<td width="33%" align="center">
-
-### 🎮 Localization
-
-게임 데이터 분석  
-그래픽 수정  
-번역 및 한글화 패치
-
-</td>
-</tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🎮 Localization</h3>
+      <sub>
+        Reverse · Translate · Patch<br>
+        Retro games in Korean
+      </sub>
+    </td>
+  </tr>
 </table>
 
 ---
