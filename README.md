@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:C78858,100:6B3F25&height=260&section=header&text=stPark-dev&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Toolmaker%20%C2%B7%20Game%20Localization&descAlignY=58&descSize=18" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:C78858,100:6B3F25&height=260&section=header&text=stPark-dev&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Toolmaker%20%C2%B7%20Game%20Localization&descAlignY=58&descSize=18)
+<div align="center">
 
 ### Build tools. Patch games. Ship interesting things.
 
@@ -151,4 +151,4 @@ Frontend부터 Backend까지
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6B3F25,50:C78858,100:111111&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B3F25,50:C78858,100:111111&height=120&section=footer" />
