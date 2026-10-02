@@ -81,7 +81,7 @@ Interest         Retro games · Game systems · UI/UX · Automation
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py&theme=dark" />
 
 <br><br>
 
@@ -93,7 +93,7 @@ Interest         Retro games · Game systems · UI/UX · Automation
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
 
 </div>
 
